@@ -1,0 +1,26 @@
+{
+  "name": "at0micbot",
+  "version": "1.0.0",
+  "description": "Multi-purpose Discord bot for at0mic Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImMalkah/at0micbot.git"
+  },
+  "author": "malkah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImMalkah/at0micbot/issues"
+  },
+  "homepage": "https://github.com/ImMalkah/at0micbot#readme",
+  "devDependencies": {
+    "eslint": "^9.2.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
