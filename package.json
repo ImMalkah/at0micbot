@@ -20,6 +20,7 @@
     "eslint": "^9.2.0"
   },
   "dependencies": {
+    "call-of-duty-api": "^4.1.0",
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5"
   }
